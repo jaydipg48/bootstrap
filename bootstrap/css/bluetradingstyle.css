@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'bikoblack';
+    font-family: 'bikoregular';
+    font-family: 'bikobold';
+
+
+}
+
+.header {
+    background-color: #0864B1;
+    background-image: url(../imgs/BackgroundShape.png);
+}
+
+.row img {
+    background-color: #0864B1;
+}
+
+.section2 {
+    text-align: center;
+}
+
+.Features {
+    background-color: #F5F5F5;
+    text-align: center;
+}
+
+.for {
+    text-align: left;
+    align-items: center;
+}
+
+.swiper-slide {
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+    background-color: #F5F5F5
+}
+.upde {
+    background-color: #0864B1;
+
+    text-align: center;
+}
+
+.footer {
+    background-color: #0864B1;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: 8px solid;
+    text-decoration-color: #676767;
+}
+
+.forms {
+    background-color: #F5F5F5;
+}
+a.upperitem {
+    font-family: 'bikobold';
+    color: #FFFFFF;
+    font-size: 30px;
+}
